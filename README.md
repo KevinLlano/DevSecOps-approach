@@ -22,11 +22,6 @@ The project addresses the need for automated security, compliance, and quality c
 
 
 ## 3. Step-by-Step Implementation 🚀  
-
-Got it! Here's the revised version with everything included in the steps, without separating them into distinct sections:
-
----
-
 ### EC2 Setup and Jenkins Pipeline Configuration 🏗
 
 1. Created an IAM user named Jenkins and retrieved its access key.  
@@ -48,15 +43,8 @@ Got it! Here's the revised version with everything included in the steps, withou
 17. Created a SonarQube project within the "Projects" section of SonarQube and inserted the generated token.  
 18. Added containerization with Docker by setting up an image and deploying the Amazon clone app on port 3000.
 
----
 
 ## CHALLENGES
-
-Here's a more polished version of the challenges section:
-
----
-
-### Challenges
 
 1. Encountered issues with the secret access key, as the one I initially entered was being read incorrectly. I resolved this by generating a new access key.  
 2. Faced difficulties with matching key pairs, as the configuration was not working properly.  
@@ -64,13 +52,13 @@ Here's a more polished version of the challenges section:
 4. The remote repository was somehow removed without any indication or error message. After some analysis, I identified that the repo needed to be added again to resolve the issue of zero commit additions.  
 5. Struggled to find the OWASP Dependency Check through documentation, as it was difficult to locate. It was only visible within the script code, making it hard to track.
 
----
+
 
 ## SCREENSHOTS
 
 ![Cloud Diagram](CloudArchitectureDiagram.png)
 ![Pipeline Stages](pipelineStasges-1.png)
-![Build Success](Jenkins#15build-1.png)
+![Build Success](Jenkinsbuild.png)
 ![EC2 Instance](EC2instance.png)
 ![Script](pipelineScript-1.png)
 ![OWASP](OwaspMonitoring.png)
