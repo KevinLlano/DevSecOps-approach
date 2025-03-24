@@ -70,7 +70,7 @@ Here's a more polished version of the challenges section:
 
 ![Cloud Diagram](CloudArchitectureDiagram.png)
 ![Pipeline Stages](pipelineStasges-1.png)
-![Script](pipelineScript.png)
+![Script](pipelineScript-1.png)
 ![OWASP](OwaspMonitoring.png)
 ![SonarQube Monitoring](SonarQubeMonitoring.png)
 ![EC2 Instance](EC2instance.png)
