@@ -70,9 +70,9 @@ Here's a more polished version of the challenges section:
 
 ![Cloud Diagram](CloudArchitectureDiagram.png)
 ![Pipeline Stages](pipelineStasges-1.png)
+![Build Success](Jenkins#15build-1.png)
+![EC2 Instance](EC2instance.png)
 ![Script](pipelineScript-1.png)
 ![OWASP](OwaspMonitoring.png)
 ![SonarQube Monitoring](SonarQubeMonitoring.png)
-![EC2 Instance](EC2instance.png)
-![Build Success](Jenkins#15build.png)
 ![Deployed App](amazondeploy1.png)
